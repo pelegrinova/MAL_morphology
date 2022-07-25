@@ -1,2 +1,1 @@
-# MAL_morphology
- 
+Scripts for automatic segmentation of Czech text into morphemes according to the dictionary of manually morphologically segmented words. Based on this segmentation, data for the analysis of the Menzerath-Altmann law are prepared.
